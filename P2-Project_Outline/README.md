@@ -28,15 +28,14 @@ Post screen that lets the user see the results of their search
 
 ### Technologies
 JS
+Node.js
 MYSQL
 HTML
-Java
-Springboot
 Weather API
 
 ### What I'll Have to Learn
 I have to learn how to call the weather API and search the contents to compare it against the user's preferences.
-I also have to further research and learn how to connect the database of user weather preferences to my JS file.
+I also have to further research and learn how to connect the database of the user's weather preferences to my JS file.
 
 ### Project Tracker
 [Weather Planning Application Trello Board](https://trello.com/b/aaKWKGza)
