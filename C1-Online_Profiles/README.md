@@ -7,10 +7,10 @@ For this assignment you will need to upload your resume and provide links to you
 ## Submission Instructions
  
 ### GitHub
-Provide a link to your GitHub account here.
+[Cori's Github](https://github.com/clkcompton)
  
 ### LinkedIn
-Provide a link to your LinkedIn account here.
+[Cori's LinkedIn](www.linkedin.com/in/cori-compton)
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
