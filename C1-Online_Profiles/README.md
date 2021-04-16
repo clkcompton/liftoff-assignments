@@ -1,3 +1,4 @@
+
 # Online Profiles
 For this assignment you will need to upload your resume and provide links to your GitHub account and your LinkedIn account.
 
@@ -13,6 +14,4 @@ For this assignment you will need to upload your resume and provide links to you
 [Cori's LinkedIn](www.linkedin.com/in/cori-compton)
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
-
-> *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
+[Compton LC Resume 2021.pdf](https://github.com/clkcompton/liftoff-assignments/files/6327815/Compton.LC.Resume.2021.pdf)
