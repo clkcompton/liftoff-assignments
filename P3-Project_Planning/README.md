@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-Include at least 3 wireframes here, adding images or files to your repository as necessary. Format them as a bulleted/unordered list with links to the files.
+[Weather_Planner_Wireframe.pdf](https://github.com/clkcompton/liftoff-assignments/files/6338470/Weather_Planner_Wireframe.pdf)
 
 ### Project Tracker
 
