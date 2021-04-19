@@ -8,7 +8,7 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-[Weather_Planner_Wireframe.pdf](https://github.com/clkcompton/liftoff-assignments/files/6338470/Weather_Planner_Wireframe.pdf)
+[pdf of application wireframes](https://github.com/clkcompton/liftoff-assignments/files/6338470/Weather_Planner_Wireframe.pdf)
 
 ### Project Tracker
 
