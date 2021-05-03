@@ -11,4 +11,4 @@
 
 ### Project Repo Link
 
-[Github repo](https://github.com/clkcompton/weather-planning.git)
+[Github repo](https://github.com/clkcompton/ui-weather-planner.git)
