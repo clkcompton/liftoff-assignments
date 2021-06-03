@@ -6,4 +6,5 @@ We want to you to create a set of presentation slides summarizing your project.
 [Project Presentation Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-presentation)
 
 ### Presentation
-[Weather Planner Presentation Slides](https://github.com/clkcompton/liftoff-assignments/files/6561843/Cori.s.Project.Slides.pdf)
+[Cori's Project Presentation.pdf](https://github.com/clkcompton/liftoff-assignments/files/6594644/Cori.s.Project.Presentation.pdf)
+
