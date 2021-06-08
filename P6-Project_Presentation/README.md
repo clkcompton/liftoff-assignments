@@ -8,5 +8,5 @@ We want to you to create a set of presentation slides summarizing your project.
 ### Presentation
 [Cori's Project Presentation.pdf](https://github.com/clkcompton/liftoff-assignments/files/6594644/Cori.s.Project.Presentation.pdf)
 
-[Google Link](https://docs.google.com/presentation/d/1nRrAnG76rwCBG-nwq0oeS3ci7085wsTLU6hjPbjTIPs/edit?usp=sharing)
+[Slides Google Link](https://docs.google.com/presentation/d/1nRrAnG76rwCBG-nwq0oeS3ci7085wsTLU6hjPbjTIPs/edit?usp=sharing)
 
